@@ -6,7 +6,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 import os
-TOKEN = os.environ.get("8677350983:AAGDjPHP55kNbKk2ITWL7AIVZTmi00Fv8bY")
+TOKEN = os.environ.get("BOT_TOKEN")
 
 # ─── Category Texts (HTML parse_mode) ────────────────────────────────────────
 
